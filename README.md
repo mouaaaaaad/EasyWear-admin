@@ -21,7 +21,6 @@
 ## Authentification 
 *Persistent Admin Login Authentication with Context, JWT Tokens And AsyncStorage.*
 - Login
-- Register
 
 ## Features 
 - View users stats
